@@ -1,0 +1,12 @@
+F:\Youtube\projects\Fast Food App\Fast Food App\bin\Debug\Fast Food App.exe.config
+F:\Youtube\projects\Fast Food App\Fast Food App\bin\Debug\Fast Food App.exe
+F:\Youtube\projects\Fast Food App\Fast Food App\bin\Debug\Fast Food App.pdb
+F:\Youtube\projects\Fast Food App\Fast Food App\obj\Debug\Fast Food App.csprojAssemblyReference.cache
+F:\Youtube\projects\Fast Food App\Fast Food App\obj\Debug\Fast_Food_App.Form1.resources
+F:\Youtube\projects\Fast Food App\Fast Food App\obj\Debug\Fast_Food_App.Properties.Resources.resources
+F:\Youtube\projects\Fast Food App\Fast Food App\obj\Debug\Fast Food App.csproj.GenerateResource.cache
+F:\Youtube\projects\Fast Food App\Fast Food App\obj\Debug\Fast Food App.csproj.CoreCompileInputs.cache
+F:\Youtube\projects\Fast Food App\Fast Food App\obj\Debug\Fast Food App.exe
+F:\Youtube\projects\Fast Food App\Fast Food App\obj\Debug\Fast Food App.pdb
+F:\Youtube\projects\Fast Food App\Fast Food App\obj\Debug\Fast_Food_App.UCFood.resources
+F:\Youtube\projects\Fast Food App\Fast Food App\obj\Debug\Fast_Food_App.UC_Drinks.resources
